@@ -7,7 +7,7 @@ export const couple = {
   recipientShort: "Ismi",
   senderName: "Isan",
   anniversary: "2023-05-18", // 18 May 2023
-  nextMeeting: "2025-12-31T18:00:00", // 31 December 2025
+  nextMeeting: "2026-12-31T18:00:00", // 31 December 2026
 };
 
 export const welcomeLetter = {
