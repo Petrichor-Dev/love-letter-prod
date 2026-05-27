@@ -32,6 +32,7 @@ const STAGES = {
 };
 
 function App() {
+  
   const [stage, setStage] = useState(STAGES.LANDING);
   const lenisRef = useRef(null);
 
